@@ -1,4 +1,0 @@
-CREATE TABLE Customer(
-	CustomerID		int			NOT NULL,
-
-);
